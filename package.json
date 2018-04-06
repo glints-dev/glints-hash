@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "commander": "^2.15.1",
+    "inquirer": "^5.2.0",
     "wordpress-hash-node": "^1.0.0"
   },
   "devDependencies": {},
@@ -15,6 +16,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "glints": "./bin/glints.js"
+    "glints-hash": "./bin/glintsHash.js"
   }
 }
